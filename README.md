@@ -1,2 +1,5 @@
-# 365-days-of-Java
- My 365-day challenge to learn and build with Java daily
+## 🗓️ My 365-Day Java Challenge
+
+### 📅 Day 1 - [Hello World](Day01/HelloWorld.java)
+- ✅ Learned basic Java structure
+- ✅ First GitHub commit
